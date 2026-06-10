@@ -82,7 +82,7 @@ google_analytics_id:
 # Profile header
 # -----------------------------------------------------------------------------
 title: "Zhehao Hu's Links"
-avatar: "images/profile-picture-sa-isopod.jpeg"
+avatar: "../../images/profile-picture-sa-isopod.jpeg"
 name: "Zhehao Hu"
 tagline: >-
   M.Sc. Biology | Deep-sea benthic ecology | Isopod taxonomist
